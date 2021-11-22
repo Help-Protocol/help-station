@@ -1,6 +1,6 @@
-# Help Protocol Web App
+# Help Station
 
-The Help Protocol Web App is a web frontend for interacting with [Help Protocol Contracts](https://github.com/Help-Protocol/help-contracts). It is intended to be used with the [Terra Station Extension](https://terra.money/extension) plugin for Chromium browsers.
+The Help Station is a web frontend for interacting with [Help Protocol Contracts](https://github.com/Help-Protocol/help-contracts). It is intended to be used with the [Terra Station Extension](https://terra.money/extension) plugin for Chromium browsers.
 
 ## User Guide
 
