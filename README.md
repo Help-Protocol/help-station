@@ -4,7 +4,7 @@ The Help Station is a web frontend for interacting with [Help Protocol Contracts
 
 ## User Guide
 
-A detailed manual on how to perform various operations through the Help Protocol Web App are available on the [official docs site](https://docs.help.protocol.onchain.engineer/user-guide/getting-started).
+A detailed manual on how to perform various operations through the Help Protocol Web App are available on the [official docs site](https://docs.help.protocol.onchain.engineer/user-guide/help-station).
 
 ## Development
 
