@@ -1,10 +1,10 @@
 # Help Station
 
-The Help Station is a web frontend for interacting with [Help Protocol Contracts](https://github.com/Help-Protocol/help-contracts). It is intended to be used with the [Terra Station Extension](https://terra.money/extension) plugin for Chromium browsers.
+The [Help Station](http://help-protocol.onchain.engineer) is a web frontend for interacting with [Help Protocol Contracts](https://github.com/Help-Protocol/help-contracts). It is intended to be used with the [Terra Station Extension](https://terra.money/extension) plugin for Chromium browsers.
 
 ## User Guide
 
-A detailed manual on how to perform various operations through the Help Protocol Web App are available on the [official docs site](https://docs.help.protocol.onchain.engineer/user-guide/help-station).
+A detailed manual on how to perform various operations through the Help Protocol Web App are available on the [official docs site](https://docs.help.protocol.onchain.engineer/user-guide/getting-started).
 
 ## Development
 
